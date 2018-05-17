@@ -1,0 +1,42 @@
+{
+   "ca": [
+      "discerniendo", 
+      "receptivamente", 
+      "sintiendo", 
+      "intuitivamente", 
+      "abstracto", 
+      "orientado al presente",
+      "aprendo mas de la experiencia",
+      "emotivo"
+   ],
+   "ec": [
+      "ensayando",
+      "relacionando",
+      "arriesgando",
+      "productivamente",
+      "observando",
+      "reflexivamente",
+      "aprendo mas de la observacion",
+      "reservado"
+   ],
+   "ea": [
+      "involucrandome",
+      "analiticamente",
+      "pensando",
+      "evaluando",
+      "logicamente",
+      "concreto",
+      "orientado hacia el futuro",
+      "aprendo mas de la conceptualizacion"
+   ],
+   "or": [
+      "practicando",
+      "imparcialmente", 
+      "haciendo",
+      "con cautela",
+      "cuestionando",
+      "activo",
+      "pragmatico",
+      "aprendo mas de la experimentacion"
+   ]
+}
