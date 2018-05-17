@@ -1,6 +1,4 @@
-## SE_FirstTask
-
-# First assignment of Metodos Expertos course
+## Brainiac - Métodos Expertos | UCR
 
 ## License
 
